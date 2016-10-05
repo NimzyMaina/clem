@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE8501</color>
+    <color name="colorPrimaryDark">#FD7700</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="btn_login">#536DFE</color>
+
+
+    <color name="colorPrimaryLight">#FFECB3</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="icons">#212121</color>
+    <color name="divider">#F3F0F4</color>
+
+    <color name="background">#E9E7EA</color>
+    <color name="green">#7BCC00</color>
+    <color name="red">#FE4040</color>
+
+    <color name="white">#ffffff</color>
+
+
+</resources>
